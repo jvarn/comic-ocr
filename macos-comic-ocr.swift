@@ -5,7 +5,7 @@ import AppKit
 func printHelp() {
     print("""
     Usage:
-      ocr-horizontal-only [options]
+      macos-comic-ocr [options]
     
     Options:
       -f, --file <file>         Specify a single image file to process
